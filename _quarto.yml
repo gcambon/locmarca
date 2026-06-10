@@ -2,7 +2,6 @@ project:
   type: website
   output-dir: docs
 
-
 website:
   title: "LOCMARCA"
   navbar:
@@ -27,6 +26,8 @@ format:
     theme: flatly
     css: styles.css
     toc: true
+    code-copy: true
+    notebook-downloads: true
 
 
 

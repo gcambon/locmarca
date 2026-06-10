@@ -16,3 +16,10 @@ Clonez le dépôt du workshop :
 git clone https://github.com/mon-org/mon-workshop.git
 cd mon-workshop
 ```
+
+Voici le notebook de l'exercice :
+
+<!-- {{< embed notebooks/nb_make_grid.ipynb>}} -->
+👉 Télécharger le notebook : [notebook.ipynb](notebooks/nb_make_grid.ipynb)
+
+- [ Day 3 - 01 - parallelization with mpi and with netcdf](pdf/2024/jour3-01-parallelization-mpi-and-netcdf.pdf)

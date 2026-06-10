@@ -4,4 +4,4 @@ title: "2024 CROCO TRAINING (PSF)"
 
 # Participants and organisers
 
-![](images/all_2024.jpg)
+<!-- ![](images/all_2024.jpg) -->

@@ -11,19 +11,20 @@ website:
         text: Home
       - href: Registration.qmd
         text: Registration
-      - href: Planning.qmd
-        text : Planning
-      - href: documentation.qmd
-        text : Documentation
-      - href: transport.qmd
-        text : How to go
-      - href: 2024.qmd
-        text: 2024 PSF
+#      - href: Planning.qmd
+#        text : Planning
+#      - href: documentation.qmd
+#        text : Documentation
+#      - href: transport.qmd
+#        text : How to go
+#      - href: 2024.qmd
+#        text: 2024 PSF
       - href: notebooks.qmd
         text: 2026 notebook
 format:
   html:
-    theme: cosmo
+    # theme: cosmo
+    theme: flatly
     css: styles.css
     toc: true
 

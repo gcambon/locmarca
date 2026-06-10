@@ -7,3 +7,12 @@ title: "Tutorials"
 ## Day 2
 
 ## Day 3
+
+## Installation
+
+Clonez le dépôt du workshop :
+
+```bash
+git clone https://github.com/mon-org/mon-workshop.git
+cd mon-workshop
+```

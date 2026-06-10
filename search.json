@@ -11,14 +11,14 @@
     "href": "Registration.html",
     "title": "Registration",
     "section": "",
-    "text": "12-2024: CROCOFOSUD has now been completed, and we do not yet have a new training project.\n10-2024: Registration closed.\n04-2024: We are now accepting applications. You can send your application to camille.mazoyer@ird.fr and cristele.chevalier@mio.osupytheas.fr.\nPlease include the following information in your application email:\nName:\nFirst name:\nOrganisation:\nCountry:\nBackground in oceanography:\nKnowledge of Unix:\nKnowledge of CROCO or another ocean model:\nFor people from the South:\nContact person from your laboratory or IRD contact:\nWould you like the IRD to contribute to your transport?"
+    "text": "Please include the following information in your application email:\nName:\nFirst name:\nOrganisation:\nCountry:\nBackground in oceanography:\nKnowledge of Unix:\nKnowledge of CROCO or another ocean model:\nFor people from the South:\nContact person from your laboratory or IRD contact:\nWould you like the IRD to contribute to your transport?"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "TRAINING CROCO (PSF 2024 IRD)",
+    "title": "LOCMARCA 2026 IRD",
     "section": "",
-    "text": "The aim of the CROCOFOSUD 2024 school is to learn how to use the CROCO 3D ocean code (https://www.croco-ocean.org/). It is aimed at people with an oceanography background who are either beginners or who wish to reinforce their knowledge of the general concepts of CROCO.\nDuring the PSF CROCOFOSUD project, we organized training sessions every year for three years in Barcelonnette, in the Alps, France. The last training session took place from November 18 to 22, 2024.\n\n\nNews\nCROCOFOSUD has now been completed, and we do not yet have a new training project.\n\n\n\nOrganisation\nPlanning: see last planning of the training - beginner training\nLanguage: French and English if necessary\nRegistration deadline: closed.\nCost :\n\nFree for participants from the south. They can also request financial assistance from the IRD for transport.\nSee Camille Mazoyer (camille.mazoyer@ird.fr) or Cristele Chevalier (cristele.chevalier@mio.osupytheas.fr) for the cost for participants from the north (this includes accommodation and meals).\nParticipants must pay for their own transport\n\n\n\nRequierements :\n\nknowledge of unix\nan oceanography background\na laptop to attend the course\nThis training is funded by IRD (https://www.ird.fr/) as part of the Projet Structurant de Formation CROCOFOSUD ."
+    "text": "News\n\n\nOrganisation\nCost :\n\n\nRequierements :\n\nknowledge of unix\nan oceanography background\na laptop to attend the course"
   },
   {
     "objectID": "notebooks.html#day-2",
